@@ -10,10 +10,13 @@
 *.userosscache
 *.sln.docstates
 
+<<<<<<< HEAD
 #Project files
 *.sln
 *.njsproj
 
+=======
+>>>>>>> f783b0287715f0ae9f8ed4ee04484e31947c8f3e
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
